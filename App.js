@@ -120,3 +120,61 @@
 // var diceRolls = Math.floor( Math.random() * 6) + "<br/>" ;
 // document.write('Random dice Value: ' + diceRoll);
 // document.write('Random dice Value: ' + diceRolls);
+
+// var heads = 0;
+// var tails = 0;
+// function click() {  
+//     x = (Math.floor(Math.random() * 2) == 0);
+//     if(x){
+//         flip("heads");
+        
+//     }else{
+//         flip("tails");
+//     }
+// };
+
+
+//  var diceRoll = Math.floor( Math.random() * 10) + "<br/>";
+//  document.write("random number between 1 and 100: " + diceRoll);
+
+// var p = prompt("Enter Your Kg");
+// var a = "50kg";
+// switch (p) {
+//     case a:
+//         alert("The Weight of user is 58.3 Kilogram");
+//         break;
+         
+//     default:
+//         alert("Note \n No Kg Found");
+// }
+
+
+// random value generated 
+// var y = Math.floor(Math.random() * 10 + 1); 
+      
+// counting the number of guesses 
+// made for correct Guess 
+// var guess = 1; 
+  
+// document.getElementById("submitguess").onclick = function(){ 
+  
+// number guessed by user      
+// var x = document.getElementById("guessField").value; 
+
+// if(x == y) 
+// {     
+//    alert("CONGRATULATIONS!!! YOU GUESSED IT RIGHT IN "
+//            + guess + " GUESS "); 
+// } 
+// else if(x > y) /* if guessed number is greater 
+            //    than actual number*/ 
+// {     
+//    guess++; 
+//    alert("OOPS SORRY!! TRY A SMALLER NUMBER"); 
+// } 
+// else
+// { 
+//    guess++; 
+//    alert("OOPS SORRY!! TRY A GREATER NUMBER") 
+// } 
+// } 
