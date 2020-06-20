@@ -95,3 +95,28 @@
 // var user =  "Pakistan";
 // var g = user.search('n');
 // console.log(g);
+
+//////pdf 26 to 30///////
+
+// var g = Math.random() + "<br/>";
+// var y = Math.round(3) + "<br/>";
+// var f = Math.floor(3) + "<br/>";
+// var c = Math.ceil(4) + "<br/>";
+
+// document.write(g,y,f,c)
+
+//  var g = Math.random(-2.67) + "<br/>";
+//  var y = Math.round(-3) + "<br/>";
+//  var f = Math.floor(-3) + "<br/>";
+//  var c = Math.ceil(-4) + "<br/>";
+
+// //  document.write(g,y,f,c);
+
+// var d = "The absolute value is 4 of -4";
+// console.log(d);
+
+
+// var diceRoll = Math.floor( Math.random() * 4) + "<br/>";
+// var diceRolls = Math.floor( Math.random() * 6) + "<br/>" ;
+// document.write('Random dice Value: ' + diceRoll);
+// document.write('Random dice Value: ' + diceRolls);
