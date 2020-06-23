@@ -348,3 +348,17 @@
 //     var d = g.slice(4,15);
 //     alert(d);
 // }
+
+ //question 14
+ // function Circumference () {
+  //     var radius = +prompt("enter the radius")
+  //     var cirumf = 2*3.14*radius;
+  //     document.write("The circumference is "+" "+cirumf)
+  // }
+  // circum();
+  // function Area() {
+  //     var radius = +prompt("enter the radius")
+  //     var area = 3.14*radius*radius;
+  //     document.write("The circumference is "+" "+area)
+  // }
+  // Area();
