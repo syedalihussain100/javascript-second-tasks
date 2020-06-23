@@ -289,7 +289,62 @@
 // var date = new Date();
 // document.write(date);
 
-function lol () {
-    var name = "hammad";
-    console.log(name);
-}
+// function grew(){
+//     var b = new Date()
+//     alert(b);
+// }
+
+
+// function grew(){
+//     var firstName = "Zaid";
+//     var lastName = "Roy";
+
+//     var fullName = firstName + " " + lastName;
+//     alert(fullName);
+// }
+
+
+// function grew(){
+//     var num = 20;
+//     var num1 = 30;
+
+//     var together = num + num1;
+
+//     alert(together);
+// }
+
+
+// function grew(){
+//     for(i=0; i<10; i++){
+//         console.log(i);
+//     }
+// }
+
+
+// function grew(){
+//     var smallletter = "hello world";
+//     var big = smallletter.toUpperCase();
+//     alert(big);
+// }
+
+// function char_count(str, letter) 
+// {
+//  var letter_Count = 0;
+//  for (var position = 0; position < str.length; position++) 
+//  {
+//     if (str.charAt(position) == letter) 
+//       {
+//       letter_Count += 1;
+//       }
+//   }
+//   return letter_Count;
+// }
+
+// console.log(char_count('w3resource.com', 'o'))
+
+
+// function grew(){
+//     var g = "Web Development Tutorial";
+//     var d = g.slice(4,15);
+//     alert(d);
+// }
